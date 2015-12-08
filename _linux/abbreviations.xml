@@ -1,0 +1,12 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Forward">
+        <abbreviation name="ff" />
+      </action>
+      <action id="Back">
+        <abbreviation name="bb" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

@@ -1,0 +1,215 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <option name="DEFAULT_COMPILER" />
+        <resourceExtensions />
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+          <entry name="!?*.aj" />
+        </wildcardResourcePatterns>
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="false">
+            <processorPath useClasspath="true" />
+          </profile>
+        </annotationProcessing>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/devProject/ideaProject/caffeine/gradle" value="8563523691672" />
+            <entry key="$USER_HOME$/devProject/ideaProject/grpc-java" value="21498250610118" />
+            <entry key="$USER_HOME$/devProject/ideaProject/repos/svnkit" value="14435080840478" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+      <component name="PropertiesComponent">
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <method />
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="singleModule" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/actor-platform/actor-server" value="1446225761254" />
+            <entry key="$USER_HOME$/akka" value="47108155596540" />
+            <entry key="$USER_HOME$/akka-io-sctp" value="1431933772975" />
+            <entry key="$USER_HOME$/akka-remote-transport-netty4" value="1416883281934" />
+            <entry key="$USER_HOME$/devProject/ideaProject/Engine" value="24589791275888" />
+            <entry key="$USER_HOME$/devProject/ideaProject/akka" value="62282672660498" />
+            <entry key="$USER_HOME$/devProject/ideaProject/akka-data-replication" value="1427854794350" />
+            <entry key="$USER_HOME$/devProject/ideaProject/akka-quartz-scheduler" value="1426147224309" />
+            <entry key="$USER_HOME$/devProject/ideaProject/akka-remote-transport-netty4" value="1434345887807" />
+            <entry key="$USER_HOME$/devProject/ideaProject/chill" value="1427264482945" />
+            <entry key="$USER_HOME$/devProject/ideaProject/config" value="2855058395072" />
+            <entry key="$USER_HOME$/devProject/ideaProject/cronish" value="1426158147601" />
+            <entry key="$USER_HOME$/devProject/ideaProject/guaji-server" value="29972937312261" />
+            <entry key="$USER_HOME$/devProject/ideaProject/jooq-sbt-plugin" value="1426646812412" />
+            <entry key="$USER_HOME$/devProject/ideaProject/play-querydsl/library" value="1429771274261" />
+            <entry key="$USER_HOME$/devProject/ideaProject/playframework/framework" value="1446520911468" />
+            <entry key="$USER_HOME$/devProject/ideaProject/reactive-kafka" value="1438678417805" />
+            <entry key="$USER_HOME$/devProject/ideaProject/sbt-native-packager-examples/akka-server-app" value="1442927697930" />
+            <entry key="$USER_HOME$/devProject/ideaProject/sbt-slick-codegen" value="1444461497964" />
+            <entry key="$USER_HOME$/devProject/ideaProject/scala-berlin/play" value="1442925053125" />
+            <entry key="$USER_HOME$/devProject/ideaProject/scala-berlin/spray" value="1442925053129" />
+            <entry key="$USER_HOME$/devProject/ideaProject/slick" value="2891148208622" />
+            <entry key="$USER_HOME$/devProject/ideaProject/summer-of-lms-2014" value="1449112409449" />
+            <entry key="$USER_HOME$/engine" value="7195087177506" />
+            <entry key="$USER_HOME$/guaji-server" value="42930007137402" />
+            <entry key="$USER_HOME$/hystrix-dashboard" value="1441526736929" />
+            <entry key="$USER_HOME$/kafka-manager" value="1438761131269" />
+            <entry key="$USER_HOME$/ping-pong" value="1442775133000" />
+            <entry key="$USER_HOME$/play-bigpipe-with-rxjava-hystrix" value="1441029187000" />
+            <entry key="$USER_HOME$/server-master" value="38766193225885" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customLauncherEnabled" value="true" />
+        <option name="customLauncherPath" value="$USER_HOME$/.linuxbrew/Cellar/sbt/0.13.9/libexec/sbt-launch.jar" />
+      </component>
+      <component name="ThriftCompiler">
+        <compilers />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

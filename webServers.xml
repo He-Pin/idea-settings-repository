@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f859dfeb-661f-48b0-980d-a93eaba5fbee" name="reply" url="http://111.13.112.5">
+        <fileTransfer host="111.13.112.5" port="1860" rootFolder="/home/xxjh" accessType="SFTP" password="df9fdfecdf93df92df9edf8bdfccdfcfdf92df9adf89df9cdfc9dfccdf98dfcc" username="xxjh">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
