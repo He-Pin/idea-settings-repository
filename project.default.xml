@@ -24,18 +24,6 @@
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
-      <component name="GradleLocalSettings">
-        <option name="modificationStamps">
-          <map>
-            <entry key="$USER_HOME$/devProject/ideaProject/caffeine/gradle" value="8563523691672" />
-            <entry key="$USER_HOME$/devProject/ideaProject/grpc-java" value="21498250610118" />
-            <entry key="$USER_HOME$/devProject/ideaProject/repos/svnkit" value="14435080840478" />
-          </map>
-        </option>
-        <option name="externalProjectsViewState">
-          <projects_view />
-        </option>
-      </component>
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
@@ -154,42 +142,24 @@
       <component name="SbtLocalSettings">
         <option name="modificationStamps">
           <map>
-            <entry key="$USER_HOME$/actor-platform/actor-server" value="1446225761254" />
-            <entry key="$USER_HOME$/akka" value="47108155596540" />
-            <entry key="$USER_HOME$/akka-io-sctp" value="1431933772975" />
-            <entry key="$USER_HOME$/akka-remote-transport-netty4" value="1416883281934" />
-            <entry key="$USER_HOME$/devProject/ideaProject/Engine" value="24589791275888" />
-            <entry key="$USER_HOME$/devProject/ideaProject/akka" value="62282672660498" />
-            <entry key="$USER_HOME$/devProject/ideaProject/akka-data-replication" value="1427854794350" />
-            <entry key="$USER_HOME$/devProject/ideaProject/akka-quartz-scheduler" value="1426147224309" />
-            <entry key="$USER_HOME$/devProject/ideaProject/akka-remote-transport-netty4" value="1434345887807" />
-            <entry key="$USER_HOME$/devProject/ideaProject/chill" value="1427264482945" />
-            <entry key="$USER_HOME$/devProject/ideaProject/config" value="2855058395072" />
-            <entry key="$USER_HOME$/devProject/ideaProject/cronish" value="1426158147601" />
-            <entry key="$USER_HOME$/devProject/ideaProject/guaji-server" value="29972937312261" />
-            <entry key="$USER_HOME$/devProject/ideaProject/jooq-sbt-plugin" value="1426646812412" />
-            <entry key="$USER_HOME$/devProject/ideaProject/play-querydsl/library" value="1429771274261" />
-            <entry key="$USER_HOME$/devProject/ideaProject/playframework/framework" value="1446520911468" />
-            <entry key="$USER_HOME$/devProject/ideaProject/reactive-kafka" value="1438678417805" />
-            <entry key="$USER_HOME$/devProject/ideaProject/sbt-native-packager-examples/akka-server-app" value="1442927697930" />
-            <entry key="$USER_HOME$/devProject/ideaProject/sbt-slick-codegen" value="1444461497964" />
-            <entry key="$USER_HOME$/devProject/ideaProject/scala-berlin/play" value="1442925053125" />
-            <entry key="$USER_HOME$/devProject/ideaProject/scala-berlin/spray" value="1442925053129" />
-            <entry key="$USER_HOME$/devProject/ideaProject/slick" value="2891148208622" />
-            <entry key="$USER_HOME$/devProject/ideaProject/summer-of-lms-2014" value="1449112409449" />
-            <entry key="$USER_HOME$/engine" value="7195087177506" />
-            <entry key="$USER_HOME$/guaji-server" value="42930007137402" />
-            <entry key="$USER_HOME$/hystrix-dashboard" value="1441526736929" />
-            <entry key="$USER_HOME$/kafka-manager" value="1438761131269" />
-            <entry key="$USER_HOME$/ping-pong" value="1442775133000" />
-            <entry key="$USER_HOME$/play-bigpipe-with-rxjava-hystrix" value="1441029187000" />
-            <entry key="$USER_HOME$/server-master" value="38766193225885" />
+            <entry key="$USER_HOME$/actor-platform/actor-server" value="1446224089589" />
+            <entry key="$USER_HOME$/akka" value="47108946791005" />
+            <entry key="$USER_HOME$/devProjects/IdeaProjects/Engine" value="24587078422569" />
+            <entry key="$USER_HOME$/devProjects/IdeaProjects/XXJH" value="18801867723485" />
+            <entry key="$USER_HOME$/devProjects/IdeaProjects/akka" value="47163952020906" />
+            <entry key="$USER_HOME$/devProjects/IdeaProjects/cats" value="1445759386543" />
+            <entry key="$USER_HOME$/devProjects/IdeaProjects/coroutines" value="2897466535318" />
+            <entry key="$USER_HOME$/devProjects/IdeaProjects/engine" value="2869568760502" />
+            <entry key="$USER_HOME$/devProjects/IdeaProjects/guaji-server" value="35971690128628" />
+            <entry key="$USER_HOME$/devProjects/IdeaProjects/jooq-sbt-plugin" value="1426607123901" />
+            <entry key="$USER_HOME$/devProjects/IdeaProjects/play-2.4-slick-3.0-streaming" value="1434952946917" />
+            <entry key="$USER_HOME$/devProjects/IdeaProjects/reactive-kafka" value="1440161332316" />
+            <entry key="$USER_HOME$/devProjects/IdeaProjects/sbt-native-packager-examples/linux-mappings" value="1442930678550" />
+            <entry key="$USER_HOME$/devProjects/IdeaProjects/slick" value="2891058074900" />
+            <entry key="$USER_HOME$/fpinscala" value="1431460707612" />
+            <entry key="$USER_HOME$/hello-scaloid-sbt" value="1429713946829" />
           </map>
         </option>
-      </component>
-      <component name="ScalaSbtSettings">
-        <option name="customLauncherEnabled" value="true" />
-        <option name="customLauncherPath" value="$USER_HOME$/.linuxbrew/Cellar/sbt/0.13.9/libexec/sbt-launch.jar" />
       </component>
       <component name="ThriftCompiler">
         <compilers />

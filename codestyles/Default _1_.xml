@@ -1,24 +1,6 @@
 <code_scheme name="Default (1)">
-  <ScalaCodeStyleSettings>
-    <option name="alwaysUsedImports">
-      <array>
-        <option value="model.Tables.ReceiptRow" />
-      </array>
-    </option>
-    <option name="REPLACE_LAMBDA_WITH_GREEK_LETTER" value="true" />
-  </ScalaCodeStyleSettings>
+  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="Scala">
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
-    <arrangement>
-      <groups>
-        <group>
-          <type>DEPENDENT_METHODS</type>
-          <order>DEPTH_FIRST</order>
-        </group>
-      </groups>
-    </arrangement>
-  </codeStyleSettings>
 </code_scheme>
