@@ -53,10 +53,6 @@
             <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/" />
             <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/" />
             <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/src.zip!/" />
-            <root type="simple" url="jar:///usr/lib/jvm/java-8-oracle/javafx-src.zip!/" />
           </root>
         </sourcePath>
       </roots>

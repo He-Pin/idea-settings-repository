@@ -55,7 +55,7 @@
     <option name="FORCE_CLASSIC_VM" value="true" />
     <option name="SKIP_SYNTHETIC_METHODS" value="true" />
     <option name="SKIP_CLASSLOADERS" value="true" />
-    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAsk" />
+    <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
     <option name="COMPILE_BEFORE_HOTSWAP" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
@@ -104,53 +104,17 @@
   </component>
   <component name="ErrorReportConfigurable">
     <option name="ITN_LOGIN" value="hepin1989@gmail.com" />
-    <option name="ITN_PASSWORD_CRYPT" value="d3Nra2tr" />
+    <option name="ITN_PASSWORD_CRYPT" value="d3Nra2trNTcxNjI1Mg==" />
     <option name="KEEP_ITN_PASSWORD" value="true" />
     <option name="EMAIL" value="" />
-  </component>
-  <component name="GlobalAntConfiguration">
-    <filtersTableLayout />
-    <propertiesTableLayout />
-  </component>
-  <component name="ImportFilteringUsageViewSetting">
-    <option name="SHOW_IMPORTS" value="false" />
-  </component>
-  <component name="JavaFxSettings">
-    <option name="pathToSceneBuilder" value="$USER_HOME$/SceneBuilder-8.0.0.jar" />
-    <option name="myPathToSceneBuilder" value="$USER_HOME$/SceneBuilder-8.0.0.jar" />
   </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
     <option name="MOVE_PREVIEW_USAGES" value="false" />
-    <option name="MOVE_SEARCH_IN_COMMENTS" value="false" />
-    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
-    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="true" />
-  </component>
-  <component name="SelectProjectTemplateSettings">
-    <option name="EXPERT_MODE" value="true" />
-  </component>
-  <component name="SvnApplicationSettings">
-    <option name="myCheckoutURLs">
-      <list>
-        <option value="http://svn.svnkit.com/repos/svnkit/trunk/" />
-      </list>
-    </option>
-    <option name="myTypedURLs">
-      <list>
-        <option value="http://svn.svnkit.com/repos/svnkit/trunk/" />
-      </list>
-    </option>
-  </component>
-  <component name="SystemNotifications">
-    <option name="NOTIFICATIONS">
-      <set>
-        <option value="Find Usages" />
-      </set>
-    </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" />
+    <option name="TYPE_COOK_EXHAUSTIVE" value="true" />
+    <option name="TYPE_COOK_COOK_OBJECTS" value="true" />
+    <option name="TYPE_COOK_PRODUCE_WILDCARDS" value="true" />
   </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="attributes">
