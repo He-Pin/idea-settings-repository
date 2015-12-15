@@ -4,6 +4,7 @@
       <mapping pattern="SlickCodeGeneratorWithPlaySupport" type="HTML" />
       <mapping pattern="TODO" type="Markdown" />
       <mapping pattern="jvmopts" type="PLAIN_TEXT" />
+      <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="SlickCodeGeneratorWithPlayJsonSupport.scala" type="PLAIN_TEXT" />
       <mapping pattern="MyPostgresDriver.scala" type="PLAIN_TEXT" />
