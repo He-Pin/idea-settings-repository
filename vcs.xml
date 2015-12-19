@@ -146,8 +146,20 @@
           <option name="url" value="https://github.com/storm-enroute/coroutines.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/lihaoyi/fastparse.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hepin1989/play-slick.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/norbert-radyk/spoiwo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/devProjects/IdeaProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/devProject/ideaProject" />
   </component>
 </application>
