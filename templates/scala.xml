@@ -5,27 +5,14 @@
     <context />
   </template>
   <template name="try" value="try{&#10;&#10;}catch{&#10;    case NonFatal(e) =&gt;&#10;}" description="trycatch" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <context>
-      <option name="SCALA_CODE" value="true" />
-    </context>
+    <context />
   </template>
   <template name="imcd" value="import scala.concurrent.duration._" description="import duration package" toReformat="true" toShortenFQNames="true" useStaticImport="true">
-    <context>
-      <option name="SCALA" value="true" />
-      <option name="SCALA_XML" value="true" />
-      <option name="SCALA_COMMENT" value="true" />
-      <option name="SCALA_STRING" value="true" />
-      <option name="SCALA_CODE" value="true" />
-    </context>
+    <context />
   </template>
   <template name="imcg" value="import scala.concurrent.ExecutionContext.Implicits.global" description="import concurrent global" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <context>
       <option name="GSP" value="false" />
-      <option name="SCALA" value="true" />
-      <option name="SCALA_XML" value="true" />
-      <option name="SCALA_COMMENT" value="true" />
-      <option name="SCALA_STRING" value="true" />
-      <option name="SCALA_CODE" value="true" />
     </context>
   </template>
 </templateSet>
