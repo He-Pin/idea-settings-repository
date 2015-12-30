@@ -178,8 +178,12 @@
           <option name="url" value="https://github.com/hepin1989/omnibus-graylog2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/xiaoniaojjj/QGameWUI.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/devProject/ideaProject" />
+    <option name="cloneParentDir" value="$USER_HOME$/devProjects/IdeaProjects" />
   </component>
 </application>
