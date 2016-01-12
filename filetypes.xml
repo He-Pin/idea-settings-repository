@@ -4,25 +4,25 @@
       <mapping pattern="SlickCodeGeneratorWithPlaySupport" type="HTML" />
       <mapping pattern="TODO" type="Markdown" />
       <mapping pattern="jvmopts" type="PLAIN_TEXT" />
-      <mapping pattern="source" type="PLAIN_TEXT" />
+      <mapping pattern="SlickCodeGeneratorWithPlayJson" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="SlickCodeGeneratorWithPlayJsonSupport.scala" type="PLAIN_TEXT" />
+      <mapping pattern="MyPostgresDriver.scala" type="PLAIN_TEXT" />
       <mapping pattern="BACKLOG" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="README.MD" type="PLAIN_TEXT" />
       <mapping pattern="javaopts" type="PLAIN_TEXT" />
-      <mapping pattern="SlickCodeGeneratorWithPlayJson" type="PLAIN_TEXT" />
+      <mapping pattern="source" type="PLAIN_TEXT" />
       <mapping pattern="modules" type="PLAIN_TEXT" />
       <mapping pattern="xxjh" type="PLAIN_TEXT" />
       <mapping pattern="COPYRIGHT" type="PLAIN_TEXT" />
       <mapping pattern="Des" type="PLAIN_TEXT" />
-      <mapping pattern="MyPostgresDriver.scala" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
-      <mapping ext="excel" type="PLAIN_TEXT" />
       <mapping ext="desc" type="PLAIN_TEXT" />
+      <mapping ext="excel" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
