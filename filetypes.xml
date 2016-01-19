@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="SlickCodeGeneratorWithPlaySupport" type="HTML" />
       <mapping pattern="TODO" type="Markdown" />
-      <mapping pattern="BACKLOG" type="PLAIN_TEXT" />
       <mapping pattern="SlickCodeGeneratorWithPlayJsonSupport.scala" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="README.MD" type="PLAIN_TEXT" />
       <mapping pattern="jvmopts" type="PLAIN_TEXT" />
       <mapping pattern="modules" type="PLAIN_TEXT" />
@@ -17,7 +17,7 @@
       <mapping pattern="部署,md" type="PLAIN_TEXT" />
       <mapping pattern="COPYRIGHT" type="PLAIN_TEXT" />
       <mapping pattern="SlickCodeGeneratorWithPlayJson" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="BACKLOG" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
