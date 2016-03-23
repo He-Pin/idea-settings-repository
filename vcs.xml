@@ -214,8 +214,28 @@
           <option name="url" value="https://github.com/webx/citrus.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.alibaba-inc.com:thehive/beehive.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.alibaba-inc.com:middleware/hsf2-0.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.alibaba-inc.com:thehive/beehive-scenes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.alibaba-inc.com/thehive/beehive-scenes.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.alibaba-inc.com" />
+          <option name="userName" value="hepin.p" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>
