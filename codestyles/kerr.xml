@@ -1,0 +1,10 @@
+<code_scheme name="kerr">
+  <option name="GENERATE_FINAL_PARAMETERS" value="true" />
+  <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+    <value>
+      <package name="java.awt" withSubpackages="false" static="false" />
+      <package name="import junit.Assert.*" withSubpackages="false" static="false" />
+      <package name="javax.swing" withSubpackages="false" static="false" />
+    </value>
+  </option>
+</code_scheme>
