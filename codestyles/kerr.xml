@@ -3,7 +3,8 @@
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
     <value>
       <package name="java.awt" withSubpackages="false" static="false" />
-      <package name="import junit.Assert.*" withSubpackages="false" static="false" />
+      <package name="import com.taobao.beehive.scenes.common.util.ScenesAssert.*" withSubpackages="false" static="true" />
+      <package name="import junit.Assert.*" withSubpackages="false" static="true" />
       <package name="javax.swing" withSubpackages="false" static="false" />
     </value>
   </option>
