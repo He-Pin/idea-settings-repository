@@ -2,12 +2,16 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="f859dfeb-661f-48b0-980d-a93eaba5fbee" name="reply" url="http://111.13.112.5">
-        <fileTransfer host="111.13.112.5" port="1860" rootFolder="/home/xxjh" accessType="SFTP" password="df9fdfecdf93df92df9edf8bdfccdfcfdf92df9adf89df9cdfc9dfccdf98dfcc" username="xxjh">
+        <fileTransfer host="111.13.112.5" port="1860" rootFolder="/home/xxjh" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
+          <option name="port" value="1860" />
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAsDOFS7nmaX82pvn0UArnDBIH0kDHOb5AQglY2pY5kUDDM9GP0AVIC2vMbcL9wqPk4+0Eu2A2JB5ZQFThH6wsklv821Gd7naQ/4lfnh4rCyUmxbmnW+oIslPjBWy7q9HgRy3HCY3U+IsLjxA3UfTHCV2ykLygpSDzZFrqJJj4YxUNJyBiAkYUEqAeuWAQ26fAzgz3jOmzkbANF2Hj66VQiiG7XpPi1XaDMHBo8hQ3omshzT8Z2X76qQyMQ2VWMrX5cg==</data>
   </component>
 </application>
